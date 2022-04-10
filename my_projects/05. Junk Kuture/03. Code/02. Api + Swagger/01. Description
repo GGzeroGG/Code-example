@@ -1,0 +1,2 @@
+Objective: Implement documentation for the mobile part
+Solution: The "drf-yasg" library was used to generate the documentation automatically

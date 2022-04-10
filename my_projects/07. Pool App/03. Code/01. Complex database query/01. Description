@@ -1,0 +1,4 @@
+Objective: Generate data for the graph (artist price change)
+Solution: I had to think how to do it normally through orm and somewhere write
+    custom sql because I had to apply an window function and then make an annotation
+* I will also give you an example of other code with complex queries (complex in my understanding at the time of creation of this project)

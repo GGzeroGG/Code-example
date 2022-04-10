@@ -1,0 +1,6 @@
+Here you can find the projects I numbered from the first to the last derivatives.
+Example: 03. {project_name} is the very first project, 100500. {project_name} is the last one
+Inside these descriptors will be:
+    1) Description of the project itself.
+    2) Skills that were used while creating it
+    3) Example code or interesting solutions of the project

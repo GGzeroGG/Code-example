@@ -1,0 +1,9 @@
+Quite a complex project to implement the sale of artist shares
+On it I expanded my knowledge in terms of database queries and wrote a query in pure sql
+
+In this project I:
+    A little deeper into optimization, increased my knowledge of django orm and database queries
+    Towards the end of the project, I slightly improved the approach to writing ui tests, which made them a bit more readable
+    Continued the idea of creating templates for the swagger and increased the obvious
+    I worked with firebase auth and wrote my first authentication class.
+    I've mastered zen ;)

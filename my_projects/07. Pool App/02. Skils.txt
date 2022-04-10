@@ -1,0 +1,6 @@
+Api: rest, swagger
+Celery: celery
+Django: ui tests, ui test factory boy, orm
+Auth: oauth2, firebase auth
+Firebase: firebase push notifications, firebase auth
+Database: postgres sql

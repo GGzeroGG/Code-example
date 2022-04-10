@@ -1,0 +1,3 @@
+Objective: Make less CopyPaste
+Solution: Put errors in the base file and use them in doc_decorator as well as
+    try not to write documentation with your own hands

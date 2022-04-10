@@ -1,0 +1,2 @@
+django: view, models, template, template_tag, static_file, media_file,
+    admin_panel

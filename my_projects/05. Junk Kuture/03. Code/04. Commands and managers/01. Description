@@ -1,0 +1,5 @@
+Objective 1: Override user name field to phone number
+Solution 1: To write a custom manager so that it would create a user correctly
+
+Objective 2: Create a command that will generate preview for all user images
+Solution 2: A team of its own was written

@@ -1,0 +1,6 @@
+Api: rest, swagger
+Celery: celery
+Django: ui tests, ui test factory boy
+Auth: oauth2
+Soft skills: teamwork
+File: generate xlwt, generate csv

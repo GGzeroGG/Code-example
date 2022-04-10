@@ -1,0 +1,7 @@
+Objective: Implement pages: list of categories, list of manufacturers,
+    list of products in category with filter, product details
+Solution:
+    1) The catalog application was created
+    2) Create models for all entities
+    3) Implement View views to associate with template templates
+    5) Use the template in the main template in the main template

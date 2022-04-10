@@ -1,0 +1,14 @@
+Link to git: https://github.com/GGzeroGG/DIP
+This is my very first project written by me and a friend as a
+    graduation project.
+I didn't know how to do it, and I was learning django while doing this project,
+    so the code is bad + we didn't know how to use the git so there are no
+    branches and no pr and revue
+The point of the project to make a computer parts online store and copy
+    The functional known online stores without any novelty.
+* - we didn't do a real payment instead put a stub
+
+In this project I: understood what a data model is, learned the structure
+    of django projects, understood what a view is, understood how routing
+    works, what a template is and how to apply them, implemented an admin
+    panel, touched the django application auth

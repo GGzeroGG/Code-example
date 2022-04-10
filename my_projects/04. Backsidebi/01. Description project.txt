@@ -1,0 +1,11 @@
+My first project when I got my job I learned a lot of new techniques and approaches
+This project is a social network for pregnant girls where they can get
+    information about pregnancy share posts comment and read other people's posts
+This mobile app I was in charge of the back
+
+In this project I:
+    Understood what: api, http (methods, status code), rest
+    Got the concept of celery
+    Got push notifications with firebase
+    Got familiar with ui and mock tests
+    Got the concept of jwt

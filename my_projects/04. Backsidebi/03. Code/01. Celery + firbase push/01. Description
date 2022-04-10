@@ -1,0 +1,7 @@
+Objective: Implement push notifications with the help of a server
+Solution:
+    1) Connect celery and firebase
+    2) Create firebase application
+    3) Create celery task for push notifications
+    4) Call this task
+* - tasks were called when the notification object was created in the signals

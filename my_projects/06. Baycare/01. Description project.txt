@@ -1,0 +1,8 @@
+Project for farmers in Spain it is designed to conclude offers between the
+    farmer and the distributor under the control of administrator
+
+In this project I:
+    I learned what a factory for ui tests, which greatly simplified my life and increase the quality of tests (at least I think so)
+    Improved the work with swagger appeared the first rudiments of patterns
+    Worked with the flow and generated csv and xls files
+    Worked with web-front-end, which broadened the team experience a bit

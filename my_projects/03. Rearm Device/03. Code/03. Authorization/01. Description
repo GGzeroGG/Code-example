@@ -1,0 +1,6 @@
+Objective: the site should be able to have: create an account,
+    log in to the account, change your password, log out
+Solution:
+    1) The authorization application was created
+    2) We used the basic django classes as a view
+    3) We created our own templates to plug them into the main template

@@ -1,0 +1,2 @@
+Objective: Generate csv or xls files and fill them with data about the offer
+Solution: Prepare data to create a file and generate the file then return it to the front

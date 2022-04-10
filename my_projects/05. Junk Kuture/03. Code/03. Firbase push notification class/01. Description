@@ -1,0 +1,2 @@
+Objective: Simplify messaging and, if possible, reuse the logic in other projects
+Solution: Write a class to send notifications to work with the firebase library

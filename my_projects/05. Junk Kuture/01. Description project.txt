@@ -1,0 +1,13 @@
+It's a mobile contest app / social network where people compete by making clothes out of junk
+Overall this project didn't have much in the way of direct new stuff, but it did give me a lot of small experiences
+
+In this project I:
+    Actively interacted with the mobile team, which helped me gain experience in teamwork
+    Acquainted with oauth2 protocol and integrated it into the project
+    Got acquainted with the auto documentation of the swagger
+    I wrote a little class for firebase push notification
+    Started to get acquainted with django orm
+    Redefined my first manager class for the user model
+    Wrote my first console command
+    Getting to know data migrations
+    Got to know twilio for sending sms

@@ -1,0 +1,6 @@
+Objective: Implement a secure authorization system within the project
+Solution: We chose the oauth2 system where the authentication service was our
+    server and it gave out pairs of tokens to the front and updated them
+* - library was used "django-oauth-toolkit"
+* - In the device model we kept the auth_token, so we could logout any device,
+    the device was created when the application was started

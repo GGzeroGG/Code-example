@@ -1,0 +1,7 @@
+Api: rest, swagger
+Celery: celery
+Firebase: firebase push
+Django: ui tests, easy-thumbnails, orm, model manager, data migrations, commands
+Auth: oauth2
+Soft skills: teamwork
+Other libraries: twilio (sms)

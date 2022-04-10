@@ -1,0 +1,11 @@
+Objective: to implement a slider with promotional items on the main page
+Solution:
+    1) The poster application was created
+    2) We created Poster model
+    3) We created a template_tag to retrieve Poster objects from the database
+    4) Created a template with poster visual and used template_tag
+        from step 3
+    5) Template from the 4th step was used in the main page template and
+        wanted it could be used in any place
+    6) You can add a product to the poster through the admin panel for this
+        purpose was created InLine view for the admin panel

@@ -1,0 +1,5 @@
+api: rest
+celery: celery
+firebase: firebase push notifications
+django: ui tests, easy-thumbnails, signals
+auth: jwt

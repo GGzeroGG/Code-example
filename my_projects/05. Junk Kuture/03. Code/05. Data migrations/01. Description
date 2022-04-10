@@ -1,0 +1,3 @@
+Objective: Add new regions for competitions
+Solution: Dissolve the json file with the countries and add them to the
+    database with the help of data migration

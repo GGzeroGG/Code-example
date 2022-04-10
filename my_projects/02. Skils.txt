@@ -1,0 +1,13 @@
+Common Skills from All Projects
+
+Django: view, models, template, template_tag, static_file, media_file, ui tests
+    admin_panel, easy-thumbnails, orm, model manager, middleware, signals, commands,
+    ui test factory boy,
+Api: rest, swagger
+Celery: celery
+Firebase: firebase push notifications, firebase auth
+Auth: jwt, oauth2, firebase auth
+Soft skills: teamwork
+Other libraries: twilio (sms)
+File: generate xlwt, generate csv
+Database: postgres sql

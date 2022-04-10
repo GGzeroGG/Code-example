@@ -1,0 +1,4 @@
+Objective: Implement firebase auth
+Solution: User is authorized through firebase on the mobile side, the mobile
+    sends to firebase_token we make a request to firebase service to confirm
+    the validity of the token and if it is valid we create the user
